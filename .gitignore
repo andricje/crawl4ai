@@ -265,3 +265,5 @@ tests/**/benchmark_reports
 
 docs/**/data
 .codecat/
+.env.txt
+.env.txt
