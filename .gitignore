@@ -267,3 +267,4 @@ docs/**/data
 .codecat/
 .env.txt
 .env.txt
+playtomic_data/

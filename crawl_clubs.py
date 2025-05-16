@@ -226,5 +226,7 @@ async def main():
     print(f"- Broj gradova sa klubovima: {cities_with_clubs}")
     print(f"- Ukupan broj pronađenih klubova: {total_clubs}")
 
+    return all_results  # Vraćamo sve rezultate
+
 if __name__ == "__main__":
     asyncio.run(main())
